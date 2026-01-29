@@ -1,0 +1,13 @@
+{
+  "logo": "",
+  "background_image_slice": "",
+  "background_image": "",
+  "primary_background_color": "#A3E8D3",
+  "secondary_background_color": "#0000003d",
+  "capture_base": "msDltH_UK4VeCMO_vYYnxq_s9gCHD_PZFjcOM743X2o",
+  "expiry_date_attribute": "",
+  "primary_attribute": "biodiversity_conservation_q1",
+  "secondary_attribute": "biodiversity_conservation_q2",
+  "type": "aries/overlays/branding/1.0",
+  "digest": "Sb7HW_jyrV6m8BI995ivT7qV4QbAitvamF-5Oy0uq-A"
+}
