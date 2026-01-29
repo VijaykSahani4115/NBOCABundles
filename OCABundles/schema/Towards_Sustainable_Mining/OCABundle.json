@@ -341,27 +341,27 @@
         "capture_base": "msDltH_UK4VeCMO_vYYnxq_s9gCHD_PZFjcOM743X2o",
         "credential_support_url": "https://northernblock.io/",
         "description": "A verifiable credential schema for \"Towards_Sustainable_Mining\"",
-        "issuer": "Northern Block",
-        "issuer_description": "Northern Block",
+        "issuer": "",
+        "issuer_description": "",
         "issuer_url": "https://northernblock.io/",
         "language": "en",
         "name": "Towards_Sustainable_Mining",
         "type": "spec/overlays/meta/1.0",
         "watermark": "DEMO",
-        "digest": "Z0--naWAKC50NZEsbCJx8fT-TG1pphOzgCsxgDDqlPw"
+        "digest": "vp1u5w6mxRhY46Qc_0XGCQIoksK8aVsdgbLoN5z5n7Q"
       },
       {
         "logo": "",
         "background_image_slice": "",
         "background_image": "",
-        "primary_background_color": "#003800",
+        "primary_background_color": "#6DCD0B",
         "secondary_background_color": "#0000003d",
         "capture_base": "msDltH_UK4VeCMO_vYYnxq_s9gCHD_PZFjcOM743X2o",
         "expiry_date_attribute": "",
         "primary_attribute": "biodiversity_conservation_q1",
         "secondary_attribute": "biodiversity_conservation_q2",
         "type": "aries/overlays/branding/1.0",
-        "digest": "brMyd3HQEc9Q5ZmDfqdE1ZdxG4j1xaTPnfjYJHXzOu0"
+        "digest": "gyEsOkxFUxFzpo25IBxtjJPLghTkehD5aebCRE8GGqc"
       }
     ]
   }
