@@ -354,14 +354,14 @@
         "logo": "",
         "background_image_slice": "",
         "background_image": "",
-        "primary_background_color": "#DD2CD9",
+        "primary_background_color": "#F52281",
         "secondary_background_color": "#0000003d",
         "capture_base": "msDltH_UK4VeCMO_vYYnxq_s9gCHD_PZFjcOM743X2o",
         "expiry_date_attribute": "",
         "primary_attribute": "biodiversity_conservation_q1",
         "secondary_attribute": "biodiversity_conservation_q2",
         "type": "aries/overlays/branding/1.0",
-        "digest": "kyA6O6hxg2vNZNNQ1fTmFwP_3lq-yfB4X3uS7PvK-Gg"
+        "digest": "t_YBDAbg5peaUByWkTQubNjKlL41VEyqV1_R8WoQvcY"
       }
     ]
   }
